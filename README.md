@@ -1,1 +1,7 @@
-# kyoo69.github.io
+<html>
+	<head>
+		<h1>
+			syiasytok kecifejuek ujra el az oldal, thoughts?
+		</h1>
+	</head>
+</html>
